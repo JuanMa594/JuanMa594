@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **JuanMa594/JuanMa594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Holaaasss 👋
+
+### Juan Manuel · Software Developer
+
+Software Development · Artificial Intelligence · Automation
+
+Systems Technician with experience in software development, databases, and IT solutions. I'm particularly interested in **AI, automation, and software development**, creating practical and efficient solutions to real-world problems.
+
+I'm also comfortable working with different programming languages, frameworks, and technologies, and I enjoy continuously learning and adapting to new tools and environments.
+
+---
+
+## Portfolio
+
+### [🌐 Visit my portfolio →](https://JuanMa594.github.io)
+
+Discover more about me, my projects, experience, and the technologies I work with.
+
+---
+
+### Technologies & Interests
+
+`Software Development` · `Artificial Intelligence` · `Automation` · `Python` · `C#` · `SQL` · `Web Development`
+
+---
+
+📌 **Explore my repositories to see some of my projects.**
