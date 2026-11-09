@@ -27,7 +27,7 @@ I'm also comfortable working with different programming languages, frameworks, a
 
 ## Portfolio
 
-### [🌐 Visit my portfolio →](https://JuanMa594.github.io)
+### [🌐 Visit my portfolio →](https://juanma594.github.io/)
 
 Discover more about me, my projects, experience, and the technologies I work with.
 
@@ -35,7 +35,7 @@ Discover more about me, my projects, experience, and the technologies I work wit
 
 ### Technologies & Interests
 
-`Software Development` · `Artificial Intelligence` · `Automation` · `Python` · `C#` · `SQL` · `Web Development`
+`Software Development` · `Artificial Intelligence` · `Automation` · `Python` · `C#` · `SQL` · `Local LLMs` · `TypeScript` · `Web Development`
 
 ---
 
